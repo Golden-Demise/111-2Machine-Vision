@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\機器視覺\HW5\HW5\HW5\Source.cpp(16,56): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+  HW5.vcxproj -> C:\Users\User\Desktop\機器視覺\HW5\HW5\x64\Debug\HW5.exe

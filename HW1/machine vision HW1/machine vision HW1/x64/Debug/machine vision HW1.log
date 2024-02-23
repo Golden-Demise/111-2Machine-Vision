@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(10,65): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(50,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(51,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(71,106): warning C4244: '=': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(72,106): warning C4244: '=': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\machine vision HW1\Source.cpp(73,106): warning C4244: '=': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+  machine vision HW1.vcxproj -> C:\Users\User\Desktop\機器視覺\HW1\machine vision HW1\x64\Debug\machine vision HW1.exe
